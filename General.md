@@ -14,23 +14,27 @@
 | 5:30 PM  | AMS 151     |         |         |         |             |
 
 # Classes
-## AMS 151
+## AMS 151 / Applied Calculus I
 ### Lecture
 _William Bernhard - <bill@math.sunysb.edu>_
 
-## CSE 214
+## CSE 214 / Data Structures
 ### Lecture
 _Ahmad Esmaili, Praveen Tripathi_
 
 ### Recitation
 _Praveen Tripathi_
 
-## LIN 101
+## LIN 101 / Human Language
 ### Lecture
+_Anna Melnikova - <anna.melnikova@stonybrook.edu>_
 
+Monday, Wednesday 12:00PM - 12:53PM
 ### Recitation
 
-## WRT 102
+## SBU 101 / Introduction to Stony Brook
+### Seminar
+
+## WRT 102 / Intermediate Writing Workshop
 ### Lecture
 _someone_
-Humanities 2046 MoWeFr 9:00AM - 9:53AM
