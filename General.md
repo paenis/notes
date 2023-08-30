@@ -37,4 +37,4 @@ Monday, Wednesday 12:00PM - 12:53PM
 
 ## WRT 102 / Intermediate Writing Workshop
 ### Lecture
-_someone_
+_Patrizia Benolich - <patricia.benolich@stonybrook.edu>_
