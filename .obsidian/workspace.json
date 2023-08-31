@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "abcadba26712470b",
+        "id": "242ae9e6027ad60c",
         "type": "tabs",
         "children": [
           {
-            "id": "daa7db1949f1ff25",
+            "id": "70878d53c6048658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/WRT102/2023-08-30.md",
+                "file": "Lecture/CSE214/2023-08-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/WRT102/2023-08-30.md",
+                "file": "Lecture/CSE214/2023-08-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/WRT102/2023-08-30.md",
+                "file": "Lecture/CSE214/2023-08-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/WRT102/2023-08-30.md"
+                "file": "Lecture/CSE214/2023-08-31.md"
               }
             }
           },
@@ -163,16 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba0bd7978e6cf1c0",
+  "active": "70878d53c6048658",
   "lastOpenFiles": [
-    "Lecture/WRT102/2023-08-28.md",
-    "Lecture/WRT102/2023-08-30.md",
-    "General.md",
     "Lecture/CSE214/2023-08-29.md",
+    "Lecture/CSE214/2023-08-31.md",
+    "Lecture/LIN101/2023-08-28.md",
+    "Lecture/LIN101/2023-08-30.md",
+    "Lecture/WRT102/2023-08-30.md",
+    "Lecture/WRT102/2023-08-28.md",
+    "General.md",
     "img/Pasted image 20230829083010.png",
     "img",
     "img/Pasted image 20230829082731.png",
-    "Lecture/LIN101/2023-08-28.md",
     "Lecture",
     "LIN101/2023-08-27.md",
     "WRT102/2023-08-27.md",
