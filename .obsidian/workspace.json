@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,10 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70878d53c6048658",
+  "active": "c213572ed34ca605",
   "lastOpenFiles": [
     "Lecture/CSE214/2023-08-29.md",
     "Lecture/CSE214/2023-08-31.md",
+    "img/Pasted image 20230829082731.png",
     "Lecture/LIN101/2023-08-28.md",
     "Lecture/LIN101/2023-08-30.md",
     "Lecture/WRT102/2023-08-30.md",
@@ -174,7 +174,6 @@
     "General.md",
     "img/Pasted image 20230829083010.png",
     "img",
-    "img/Pasted image 20230829082731.png",
     "Lecture",
     "LIN101/2023-08-27.md",
     "WRT102/2023-08-27.md",
