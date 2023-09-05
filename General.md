@@ -20,7 +20,7 @@ _William Bernhard - <bill@math.sunysb.edu>_
 
 ## CSE 214 / Data Structures
 ### Lecture
-_Ahmad Esmaili, Praveen Tripathi - _
+_Ahmad Esmaili, Praveen Tripathi_
 
 ### Recitation
 _Praveen Tripathi_
