@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/CSE214/2023-09-11.md",
+                "file": "Lecture/CSE214/2023-09-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/CSE214/2023-09-11.md",
+                "file": "Lecture/CSE214/2023-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/CSE214/2023-09-11.md",
+                "file": "Lecture/CSE214/2023-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/CSE214/2023-09-11.md"
+                "file": "Lecture/CSE214/2023-09-12.md"
               }
             }
           },
@@ -143,6 +143,16 @@
             "state": {
               "type": "git-view",
               "state": {}
+            }
+          },
+          {
+            "id": "205492f773202c33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -162,12 +172,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba0bd7978e6cf1c0",
+  "active": "70878d53c6048658",
   "lastOpenFiles": [
+    "Lecture/CSE214/2023-09-05.md",
     "Lecture/CSE214/2023-09-07.md",
     "Lecture/CSE214/2023-09-11.md",
+    "Lecture/CSE214/2023-09-12.md",
     "Lecture/AMS151/2023-08-28.md",
-    "Lecture/CSE214/2023-09-05.md",
     "Lecture/CSE214/2023-08-31.md",
     "Lecture/CSE214/2023-08-29.md",
     "Lecture/LIN101/2023-08-28.md",
