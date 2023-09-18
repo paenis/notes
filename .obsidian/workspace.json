@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/CSE214/2023-09-12.md",
+                "file": "Lecture/CSE214/2023-09-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/CSE214/2023-09-12.md",
+                "file": "Lecture/CSE214/2023-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/CSE214/2023-09-12.md",
+                "file": "Lecture/CSE214/2023-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/CSE214/2023-09-12.md"
+                "file": "Lecture/CSE214/2023-09-14.md"
               }
             }
           },
@@ -174,10 +174,12 @@
   },
   "active": "70878d53c6048658",
   "lastOpenFiles": [
+    "Lecture/CSE214/2023-09-12.md",
+    "Lecture/CSE214/2023-09-14.md",
     "Lecture/CSE214/2023-09-05.md",
     "Lecture/CSE214/2023-09-07.md",
     "Lecture/CSE214/2023-09-11.md",
-    "Lecture/CSE214/2023-09-12.md",
+    "Lecture/LIN101/2023-09-13.md",
     "Lecture/AMS151/2023-08-28.md",
     "Lecture/CSE214/2023-08-31.md",
     "Lecture/CSE214/2023-08-29.md",
