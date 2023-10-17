@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/CSE214/2023-10-12.md",
+                "file": "Lecture/CSE214/2023-10-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/CSE214/2023-10-12.md",
+                "file": "Lecture/CSE214/2023-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/CSE214/2023-10-12.md",
+                "file": "Lecture/CSE214/2023-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/CSE214/2023-10-12.md"
+                "file": "Lecture/CSE214/2023-10-17.md"
               }
             }
           },
@@ -175,6 +175,11 @@
   },
   "active": "70878d53c6048658",
   "lastOpenFiles": [
+    "Lecture/CSE214/2023-10-03.md",
+    "Lecture/CSE214/2023-10-12.md",
+    "Lecture/CSE214/2023-10-17.md",
+    "Lecture/AMS151/2023-08-28.md",
+    "Lecture/LIN101/2023-08-28.md",
     "Lecture/CSE214/2023-08-31.md",
     "Lecture/CSE214/2023-09-05.md",
     "Lecture/CSE214/2023-09-07.md",
@@ -183,9 +188,6 @@
     "Lecture/CSE214/2023-09-14.md",
     "Lecture/CSE214/2023-09-21.md",
     "Lecture/CSE214/2023-09-19.md",
-    "Lecture/CSE214/2023-10-12.md",
-    "Lecture/CSE214/2023-10-03.md",
-    "Lecture/LIN101/2023-08-28.md",
     "General.md",
     "Lecture/WRT102/2023-08-28.md",
     "Lecture/WRT102/2023-08-30.md",
@@ -193,7 +195,6 @@
     "Lecture/WRT102/2023-09-11.md",
     "Lecture/LIN101/2023-09-13.md",
     "Lecture/LIN101/2023-08-30.md",
-    "Lecture/AMS151/2023-08-28.md",
     "Lecture/CSE214/2023-08-29.md",
     "img/Pasted image 20230829082731.png",
     "img/Pasted image 20230829083010.png",
@@ -206,7 +207,6 @@
     "CSE214/test2.md",
     "test1.md",
     "test2.md",
-    "AMS 151/2023-08-27.md",
     "SBU101",
     "Lecture/LIN101",
     "Lecture/WRT102",
