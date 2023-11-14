@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/CSE214/2023-11-02.md",
+                "file": "Lecture/AMS151/2023-08-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/CSE214/2023-11-02.md",
+                "file": "Lecture/AMS151/2023-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/CSE214/2023-11-02.md",
+                "file": "Lecture/AMS151/2023-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/CSE214/2023-11-02.md"
+                "file": "Lecture/AMS151/2023-08-28.md"
               }
             }
           },
@@ -173,15 +173,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba0bd7978e6cf1c0",
+  "active": "70878d53c6048658",
   "lastOpenFiles": [
-    "Lecture/CSE214/2023-10-24.md",
-    "Lecture/CSE214/2023-11-02.md",
-    "Lecture/CSE214/2023-08-29.md",
-    "Lecture/CSE214/2023-10-17.md",
-    "Lecture/CSE214/2023-10-03.md",
-    "Lecture/CSE214/2023-10-12.md",
-    "Lecture/AMS151/2023-08-28.md",
     "Lecture/LIN101/2023-08-28.md",
     "Lecture/CSE214/2023-08-31.md",
     "Lecture/CSE214/2023-09-05.md",
@@ -189,8 +182,15 @@
     "Lecture/CSE214/2023-09-11.md",
     "Lecture/CSE214/2023-09-12.md",
     "Lecture/CSE214/2023-09-14.md",
-    "Lecture/CSE214/2023-09-21.md",
     "Lecture/CSE214/2023-09-19.md",
+    "Lecture/CSE214/2023-09-21.md",
+    "Lecture/CSE214/2023-10-03.md",
+    "Lecture/CSE214/2023-10-12.md",
+    "Lecture/CSE214/2023-10-17.md",
+    "Lecture/CSE214/2023-10-24.md",
+    "Lecture/CSE214/2023-11-02.md",
+    "Lecture/CSE214/2023-08-29.md",
+    "Lecture/AMS151/2023-08-28.md",
     "General.md",
     "Lecture/WRT102/2023-08-28.md",
     "Lecture/WRT102/2023-08-30.md",
