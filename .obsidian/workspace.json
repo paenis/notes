@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "242ae9e6027ad60c",
+        "id": "4445f28d2b49ef93",
         "type": "tabs",
         "children": [
           {
-            "id": "70878d53c6048658",
+            "id": "c9997c134782049f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/CSE214/2023-11-14.md",
+                "file": "Lecture/LIN101/2023-11-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe05886ae2113690",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/CSE214/2023-11-14.md",
+                "file": "Lecture/LIN101/2023-11-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/CSE214/2023-11-14.md",
+                "file": "Lecture/LIN101/2023-11-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/CSE214/2023-11-14.md"
+                "file": "Lecture/LIN101/2023-11-26.md"
               }
             }
           },
@@ -160,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 312.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,11 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70878d53c6048658",
+  "active": "ba0bd7978e6cf1c0",
   "lastOpenFiles": [
+    "Lecture/LIN101/2023-11-26.md",
+    "Lecture/CSE214/2023-11-14.md",
     "Lecture/CSE214/2023-10-24.md",
     "Lecture/CSE214/2023-11-02.md",
-    "Lecture/CSE214/2023-11-14.md",
     "Lecture/AMS151/2023-08-28.md",
     "Lecture/LIN101/2023-08-28.md",
     "Lecture/CSE214/2023-08-31.md",
@@ -204,7 +207,6 @@
     "img",
     "Lecture",
     "LIN101/2023-08-27.md",
-    "WRT102/2023-08-27.md",
     "!templates",
     "Lecture/AMS151",
     "SBU101",
