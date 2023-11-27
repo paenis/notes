@@ -157,12 +157,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba0bd7978e6cf1c0",
+  "active": "c9997c134782049f",
   "lastOpenFiles": [
+    "Pasted image 20231126163206.png",
+    "Pasted image 20231126163146.png",
     "Lecture/LIN101/2023-11-26.md",
     "Lecture/CSE214/2023-11-14.md",
     "Lecture/CSE214/2023-10-24.md",
@@ -206,7 +207,6 @@
     "img/Pasted image 20230829083010.png",
     "img",
     "Lecture",
-    "LIN101/2023-08-27.md",
     "!templates",
     "Lecture/AMS151",
     "SBU101",
