@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/LIN101/2023-11-26.md",
+                "file": "2023-11-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe05886ae2113690",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/LIN101/2023-11-26.md",
+                "file": "2023-11-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/LIN101/2023-11-26.md",
+                "file": "2023-11-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/LIN101/2023-11-26.md"
+                "file": "2023-11-27.md"
               }
             }
           },
@@ -176,9 +175,11 @@
   },
   "active": "c9997c134782049f",
   "lastOpenFiles": [
+    "Lecture/LIN101/2023-11-26.md",
+    "2023-11-27.md",
+    "General.md",
     "Pasted image 20231126163206.png",
     "Pasted image 20231126163146.png",
-    "Lecture/LIN101/2023-11-26.md",
     "Lecture/CSE214/2023-11-14.md",
     "Lecture/CSE214/2023-10-24.md",
     "Lecture/CSE214/2023-11-02.md",
@@ -196,7 +197,6 @@
     "Lecture/CSE214/2023-10-12.md",
     "Lecture/CSE214/2023-10-17.md",
     "Lecture/CSE214/2023-08-29.md",
-    "General.md",
     "Lecture/WRT102/2023-08-28.md",
     "Lecture/WRT102/2023-08-30.md",
     "Lecture/WRT102/2023-09-06.md",
