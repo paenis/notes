@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/CSE214/2023-11-14.md",
+                "file": "Lecture/Fa23CSE214/2023-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,14 +143,6 @@
             }
           },
           {
-            "id": "28d1b39f2dccd71e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "71ed188d06405d82",
             "type": "leaf",
             "state": {
@@ -171,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,24 +179,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "007951b5922bf96f",
+  "active": "a2558336175eb4b2",
   "lastOpenFiles": [
     "Lecture/Sp24AMS210/2024-01-22.md",
     "Lecture/Sp24AMS210",
     "General.md",
     "2023-11-27.md",
-    "Lecture/CSE214/2023-10-24.md",
-    "Lecture/CSE214/2023-11-02.md",
-    "Lecture/CSE214/2023-10-12.md",
-    "Lecture/CSE214/2023-10-17.md",
-    "Lecture/CSE214/2023-10-03.md",
-    "Lecture/CSE214/2023-09-21.md",
-    "Lecture/CSE214/2023-09-19.md",
-    "Lecture/CSE214/2023-09-14.md",
-    "Lecture/CSE214/2023-09-12.md",
-    "Lecture/CSE214/2023-11-14.md",
-    "Lecture/CSE214/2023-12-07.md",
-    "Lecture/CSE214/2023-12-08.md",
+    "Lecture/Fa23CSE214/2023-10-24.md",
+    "Lecture/Fa23CSE214/2023-11-02.md",
+    "Lecture/Fa23CSE214/2023-10-12.md",
+    "Lecture/Fa23CSE214/2023-10-17.md",
+    "Lecture/Fa23CSE214/2023-10-03.md",
+    "Lecture/Fa23CSE214/2023-09-21.md",
+    "Lecture/Fa23CSE214/2023-09-19.md",
+    "Lecture/Fa23CSE214/2023-09-14.md",
+    "Lecture/Fa23CSE214/2023-09-12.md",
+    "Lecture/Fa23CSE214/2023-11-14.md",
+    "Lecture/Fa23CSE214/2023-12-07.md",
+    "Lecture/Fa23CSE214/2023-12-08.md",
     "Lecture/Fa23LIN101/2023-11-26.md",
     "Lecture/Fa23LIN101/2023-11-30.md",
     "Lecture/Fa23LIN101/2023-08-28.md",
@@ -213,11 +205,11 @@
     "img/Pasted image 20231130211400.png",
     "Pasted image 20231126163206.png",
     "Pasted image 20231126163146.png",
-    "Lecture/CSE214/2023-08-31.md",
-    "Lecture/CSE214/2023-09-05.md",
-    "Lecture/CSE214/2023-09-07.md",
-    "Lecture/CSE214/2023-09-11.md",
-    "Lecture/CSE214/2023-08-29.md",
+    "Lecture/Fa23CSE214/2023-08-31.md",
+    "Lecture/Fa23CSE214/2023-09-05.md",
+    "Lecture/Fa23CSE214/2023-09-07.md",
+    "Lecture/Fa23CSE214/2023-09-11.md",
+    "Lecture/Fa23CSE214/2023-08-29.md",
     "Lecture/WRT102/2023-08-28.md",
     "Lecture/WRT102/2023-08-30.md",
     "img/Pasted image 20230829082731.png",
@@ -229,7 +221,7 @@
     "SBU101",
     "Lecture/Fa23LIN101",
     "Lecture/WRT102",
-    "Lecture/CSE214",
+    "Lecture/Fa23CSE214",
     "Lecture/Fa23AMS151",
     "Untitled.canvas"
   ]
