@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/Fa23CSE214/2023-11-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "007951b5922bf96f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Lecture/Sp24CSE215/2024-01-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,11 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "007951b5922bf96f",
+  "active": "ba0bd7978e6cf1c0",
   "lastOpenFiles": [
-    "Pasted image 20240123151033.png",
-    "Lecture/Sp24AMS210/2024-01-22.md",
+    "Lecture/Fa23CSE214/2023-11-14.md",
+    "Untitled.canvas",
     "Lecture/Sp24CSE215/2024-01-23.md",
+    "img/Pasted image 20240123151033.png",
+    "Lecture/Sp24AMS210/2024-01-22.md",
     "Lecture/Sp24CSE215",
     "Lecture/Sp24AFH101/2024-01-22.md",
     "Lecture/Sp24AMS161/2024-01-22.md",
@@ -202,7 +190,6 @@
     "Lecture/Fa23CSE214/2023-09-19.md",
     "Lecture/Fa23CSE214/2023-09-14.md",
     "Lecture/Fa23CSE214/2023-09-12.md",
-    "Lecture/Fa23CSE214/2023-11-14.md",
     "Lecture/Fa23CSE214/2023-12-07.md",
     "Lecture/Fa23CSE214/2023-12-08.md",
     "Lecture/Fa23LIN101/2023-11-26.md",
@@ -223,7 +210,6 @@
     "!templates",
     "Lecture/Fa23AMS151",
     "SBU101",
-    "Lecture/Fa23LIN101",
-    "Untitled.canvas"
+    "Lecture/Fa23LIN101"
   ]
 }
