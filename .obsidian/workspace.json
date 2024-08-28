@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9997c134782049f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/23H2CSE214/2023-11-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5a3517d960a87da5",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,8 +168,9 @@
   },
   "active": "5a3517d960a87da5",
   "lastOpenFiles": [
-    "Lecture/24H2CSE216/2024-08-26.md",
+    "Lecture/23H2CSE214/2023-11-14.md",
     "Lecture/24H2CSE216/2024-08-28.md",
+    "Lecture/24H2CSE216/2024-08-26.md",
     "Lecture/24H2AMS301/2024-08-27.md",
     "img/Pasted image 20240827174843.png",
     "img/Pasted image 20240827172841.png",
@@ -208,7 +196,6 @@
     "img/Pasted image 20240206143836.png",
     "Lecture/Sp24AFH101/2024-01-22.md",
     "img/Pasted image 20240130145545.png",
-    "Lecture/23H2CSE214/2023-11-14.md",
     "Untitled.canvas",
     "img/Pasted image 20240123151033.png",
     "Lecture/24H1CSE215",
