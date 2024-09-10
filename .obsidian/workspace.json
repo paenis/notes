@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/24H2AMS301/2024-09-05.md",
+                "file": "Lecture/24H2HUS290/2024-09-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/24H2AMS301/2024-09-05.md",
+                "file": "Lecture/24H2HUS290/2024-09-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/24H2AMS301/2024-09-05.md",
+                "file": "Lecture/24H2HUS290/2024-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/24H2AMS301/2024-09-05.md"
+                "file": "Lecture/24H2HUS290/2024-09-10.md"
               }
             }
           },
@@ -168,13 +168,14 @@
   },
   "active": "5a3517d960a87da5",
   "lastOpenFiles": [
+    "Lecture/24H2HUS290/2024-09-03.md",
+    "Lecture/24H2HUS290/2024-09-05.md",
+    "Lecture/24H2HUS290/2024-09-10.md",
+    "Lecture/24H2AMS301/2024-09-05.md",
     "img/Pasted image 20240905170415.png",
     "Lecture/24H2CSE216/2024-08-28.md",
     "Lecture/24H2CSE216/2024-08-26.md",
-    "Lecture/24H2HUS290/2024-09-03.md",
-    "Lecture/24H2HUS290/2024-09-05.md",
     "Lecture/24H2AMS301/2024-08-27.md",
-    "Lecture/24H2AMS301/2024-09-05.md",
     "img/Pasted image 20240905170222.png",
     "Lecture/24H2AMS301/2024-08-29.md",
     "Lecture/24H2HUS290",
@@ -211,7 +212,6 @@
     "img/Pasted image 20231130213034.png",
     "img/Pasted image 20231130211400.png",
     "Pasted image 20231126163206.png",
-    "Pasted image 20231126163146.png",
     "img",
     "Lecture",
     "!templates"
