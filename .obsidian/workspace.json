@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/24H2CSE216/2024-09-11.md",
+                "file": "Lecture/24H2AMS301/2024-09-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/24H2CSE216/2024-09-11.md",
+                "file": "Lecture/24H2AMS301/2024-09-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/24H2CSE216/2024-09-11.md",
+                "file": "Lecture/24H2AMS301/2024-09-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/24H2CSE216/2024-09-11.md"
+                "file": "Lecture/24H2AMS301/2024-09-12.md"
               }
             }
           },
@@ -168,16 +168,17 @@
   },
   "active": "5a3517d960a87da5",
   "lastOpenFiles": [
-    "Lecture/24H2CSE216/2024-08-28.md",
-    "Lecture/24H2CSE216/2024-09-11.md",
-    "Lecture/24H2CSE216/2024-08-26.md",
+    "Lecture/24H2HUS290/2024-09-10.md",
     "Lecture/24H2AMS301/2024-09-10.md",
-    "Pasted image 20240910180433.png",
+    "Lecture/24H2AMS301/2024-09-12.md",
+    "img/Pasted image 20240910180433.png",
+    "Lecture/24H2CSE216/2024-09-11.md",
+    "Lecture/24H2CSE216/2024-08-28.md",
+    "Lecture/24H2CSE216/2024-08-26.md",
     "img/Pasted image 20240910174429.png",
     "img/Pasted image 20240910174414.png",
     "Pasted image 20240910174344.png",
     "Lecture/24H2AMS301/2024-09-05.md",
-    "Lecture/24H2HUS290/2024-09-10.md",
     "Lecture/24H2HUS290/2024-09-03.md",
     "Lecture/24H2HUS290/2024-09-05.md",
     "img/Pasted image 20240905170415.png",
@@ -203,8 +204,6 @@
     "Lecture/23H2LIN101/2023-11-30.md",
     "Lecture/23H2LIN101/2023-11-26.md",
     "Lecture/23H2LIN101/2023-08-28.md",
-    "Lecture/24H1CSE215/2024-01-25.md",
-    "Lecture/24H1CSE215/2024-01-30.md",
     "img/Pasted image 20240206143836.png",
     "img/Pasted image 20240130145545.png",
     "Untitled.canvas",
