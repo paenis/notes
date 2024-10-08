@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/24H2CSE216/2024-10-04.md",
+                "file": "Lecture/24H2HUS290/2024-10-08.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture/24H2CSE216/2024-10-04.md",
+                "file": "Lecture/24H2HUS290/2024-10-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture/24H2CSE216/2024-10-04.md",
+                "file": "Lecture/24H2HUS290/2024-10-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture/24H2CSE216/2024-10-04.md"
+                "file": "Lecture/24H2HUS290/2024-10-08.md"
               }
             }
           },
@@ -166,11 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a3517d960a87da5",
+  "active": "ba0bd7978e6cf1c0",
   "lastOpenFiles": [
+    "Lecture/24H2CSE216/2024-10-04.md",
+    "Lecture/24H2HUS290/2024-10-08.md",
     "Lecture/24H2CSE216/2024-09-27.md",
     "Lecture/24H2CSE216/2024-09-30.md",
-    "Lecture/24H2CSE216/2024-10-04.md",
     "Lecture/24H2HUS290/2024-10-01.md",
     "Lecture/24H2AMS301/2024-10-01.md",
     "Lecture/24H2HUS290/2024-09-24.md",
@@ -204,7 +205,6 @@
     "img/Pasted image 20240827174843.png",
     "img/Pasted image 20240827172841.png",
     "Lecture/24H2AMS301",
-    "Lecture/23H2CSE214/2023-09-07.md",
     "Lecture/24H2CSE216",
     "img/Pasted image 20240206143836.png",
     "Untitled.canvas",
