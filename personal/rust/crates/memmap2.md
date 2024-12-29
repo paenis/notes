@@ -1,4 +1,4 @@
-**[Lib.rs](https://lib.rs/crates/<% tp.file.title %>)**
-**[Docs.rs](https://docs.rs/<% tp.file.title %>)**
+**[Lib.rs](https://lib.rs/crates/memmap2)**
+**[Docs.rs](https://docs.rs/memmap2)**
 
-<% tp.file.cursor() %>
+Cross-platform memory mapping

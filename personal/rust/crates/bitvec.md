@@ -1,4 +1,5 @@
-**[Docs.rs](https://docs.rs/bitvec/latest/bitvec/)**
+**[Lib.rs](https://lib.rs/crates/bitvec)**
+**[Docs.rs](https://docs.rs/bitvec)**
 
 Operations on vectors of bits, and transmutation of bit values
 
