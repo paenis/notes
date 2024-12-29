@@ -14,6 +14,11 @@ random other ideas:
 - need to add docs to as many things as possible
 - unit tests
 - benchmarks for any library (cqf) if feasible (via [[criterion]])
+- real errors and error handling via [[thiserror]]/[[anyhow]]-like crates
+
+reading:
+- [Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
+- [Perf book](https://nnethercote.github.io/perf-book/)
 
 ### Snippets
 ```rust
