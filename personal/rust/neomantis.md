@@ -31,6 +31,11 @@ to build the worker code:
 
 re: above steps, these are workarounds while cephFS isn't working. otherwise, this part would just use `build_neomantis.sh`
 
+to init/start workers:
+- `make -f ~/Makefile -C main/scripts/playbooks/ fast-deploy`
+
+need something better, i.e. 
+
 ### Snippets
 ```rust
 impl TableRow {
