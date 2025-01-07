@@ -20,6 +20,17 @@ reading:
 - [Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
 - [Perf book](https://nnethercote.github.io/perf-book/)
 
+### Building
+general sequence is stop -> copy -> init -> start
+
+to build the worker code:
+- build worker with cargo commands from `scripts/build_neomantis.sh`
+	- `cargo build --profile opt_debug --manifest-path ../worker/Cargo.toml --bin {neomantis,mantis_test2}`
+- copy built worker to worker nodes with ansible
+	- `ansible-playbook -i scripts/playbooks/all_workers.list scripts/playbooks/copy_files.yml`
+
+re: above steps, these are workarounds while cephFS isn't working. otherwise, this part would just use `build_neomantis.sh`
+
 ### Snippets
 ```rust
 impl TableRow {
