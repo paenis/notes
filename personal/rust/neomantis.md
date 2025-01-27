@@ -7,7 +7,7 @@ cqf probably needs the most work; a lot of parts also use raw pointers more than
 
 for cqf, maybe [[bitvec]] is useful. I think the filter and/or color table uses something like a sparse matrix, need to look at paper
 
-de/serialization of some types (e.g. [[#^a8179c|TableRow]]) currently uses (likely safe, but this is not documented) [`std::slice::from_raw_parts`]() instead of proper transmute to `&[u8]`. something like [[zerocopy]] provides a bounds-checked way to do this. alternatively, use something like [[bincode]] for potential space saving, but disk space/OTW format is not really the issue here.
+de/serialization of some types (e.g. [[#^a8179c|TableRow]]) currently uses (likely safe, but this is not documented) [`std::slice::from_raw_parts`](https://doc.rust-lang.org/std/slice/fn.from_raw_parts.html) instead of proper transmute to `&[u8]`. something like [[zerocopy]] provides a bounds-checked way to do this. alternatively, use something like [[bincode]] for potential space saving, but disk space/OTW format is not really the issue here.
 
 likely a ton of things can benefit from better abstraction, documentation, modularity. an easy first step is making `MergeIndex` and other `type`defs into newtype structs
 
