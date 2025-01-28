@@ -39,6 +39,7 @@ re: above steps, these are workarounds while cephFS isn't working. otherwise, th
 
 to init/start workers:
 - `make -f ~/Makefile -C main/scripts/playbooks/ fast-deploy`
+- 
 
 collect metrics using `stages.py` and Prometheus' `node_exporter`
 
