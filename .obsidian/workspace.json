@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/rust/neomantis.md",
+                "file": "personal/rust/crates/zerocopy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "neomantis"
+              "title": "zerocopy"
             }
           }
         ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/rust/neomantis.md",
+                "file": "personal/rust/crates/zerocopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for neomantis"
+              "title": "Backlinks for zerocopy"
             }
           },
           {
@@ -169,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/25H1AMS310/2025-01-27.md",
+                "file": "personal/rust/crates/zerocopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-01-27"
+              "title": "Outgoing links from zerocopy"
             }
           },
           {
@@ -245,23 +245,24 @@
   },
   "active": "37ca94ca1b8ac3a0",
   "lastOpenFiles": [
-    "().md",
-    "personal/rust/neomantis.md",
-    "lecture/25H1AMS310/2025-01-27.md",
-    "lecture/25H1AMS310",
+    "personal/rust/crates/winnow.md",
+    "personal/rust/crates/typetag.md",
     "personal/rust/crates/thiserror.md",
     "personal/rust/crates/memmap2.md",
     "personal/rust/crates/eyre.md",
-    "personal/rust/crates/bitvec.md",
-    "personal/rust/crates/bpaf.md",
-    "personal/rust/crates/bincode.md",
-    "personal/rust/crates/typetag.md",
     "personal/rust/crates/chumsky.md",
-    "personal/rust/crates/winnow.md",
-    "personal/rust/crates/anyhow.md",
     "personal/rust/crates/criterion.md",
+    "personal/rust/crates/camino.md",
+    "personal/rust/crates/bpaf.md",
+    "personal/rust/crates/anyhow.md",
+    "personal/rust/crates/bincode.md",
+    "personal/rust/crates/bitvec.md",
     "personal/rust/crates/bytemuck.md",
     "personal/rust/crates/zerocopy.md",
+    "personal/rust/neomantis.md",
+    "().md",
+    "lecture/25H1AMS310/2025-01-27.md",
+    "lecture/25H1AMS310",
     "!templates/Rust crate.md",
     "!templates",
     "personal/rust/crates",
@@ -276,7 +277,6 @@
     "lecture/24H2AMS301/2024-10-22.md",
     "lecture/24H2AMS301/2024-11-07.md",
     "lecture/24H2CSE216/2024-10-04.md",
-    "lecture/24H2AMS301/2024-08-27.md",
     "img/Pasted image 20240924180429.png",
     "img/Pasted image 20240910180433.png",
     "img/Pasted image 20240910174429.png",
