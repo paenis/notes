@@ -14,6 +14,8 @@ likely a ton of things can benefit from better abstraction, documentation, modul
 
 rewriting large parts of the current implementation is definitely possible once everyone is comfortable enough with rust
 
+most deployment is now handled through the `just` command runner! try to keep it updated
+
 random other ideas:
 - replace calls to `libc::mmap` etc. with [[memmap2]]?
 - need to add docs to as many things as possible
@@ -25,23 +27,6 @@ random other ideas:
 reading:
 - [Rustonomicon](https://doc.rust-lang.org/nightly/nomicon/)
 - [Perf book](https://nnethercote.github.io/perf-book/)
-
-### Building
-general sequence is stop -> copy -> init -> start
-
-to build the worker code:
-- build worker with cargo commands from `scripts/build_neomantis.sh`
-	- `cargo build --profile opt_debug --manifest-path ../worker/Cargo.toml --bin {neomantis,mantis_test2}`
-- copy built worker to worker nodes with ansible
-	- `ansible-playbook -i scripts/playbooks/all_workers.list scripts/playbooks/copy_files.yml`
-
-re: above steps, these are workarounds while cephFS isn't working. otherwise, this part would just use `build_neomantis.sh`
-
-to init/start workers:
-- `make -f ~/Makefile -C main/scripts/playbooks/ fast-deploy`
-- fuck with the db :)
-
-collect metrics using `stages.py` and Prometheus' `node_exporter`
 
 ### Snippets
 ```rust
