@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/rust/crates/criterion.md",
+                "file": "personal/rust/neomantis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "criterion"
+              "title": "neomantis"
             }
           }
         ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/rust/crates/criterion.md",
+                "file": "personal/rust/neomantis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for criterion"
+              "title": "Backlinks for neomantis"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "37ca94ca1b8ac3a0",
   "lastOpenFiles": [
+    "personal/rust/crates/criterion.md",
     "personal/rust/neomantis.md",
     "personal/rust/crates/zerocopy.md",
     "personal/rust/crates/winnow.md",
@@ -253,7 +254,6 @@
     "personal/rust/crates/memmap2.md",
     "personal/rust/crates/eyre.md",
     "personal/rust/crates/chumsky.md",
-    "personal/rust/crates/criterion.md",
     "personal/rust/crates/camino.md",
     "personal/rust/crates/bpaf.md",
     "personal/rust/crates/anyhow.md",
