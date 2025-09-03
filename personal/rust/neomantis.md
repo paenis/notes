@@ -16,6 +16,8 @@ rewriting large parts of the current implementation is definitely possible once 
 
 most deployment is now handled through the `just` command runner! try to keep it updated
 
+https://github.com/jeff-k/bio-seq/blob/main/bio-seq/src/kmer.rs
+
 random other ideas:
 - replace calls to `libc::mmap` etc. with [[memmap2]]?
 - need to add docs to as many things as possible
