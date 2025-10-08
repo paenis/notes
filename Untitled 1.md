@@ -1,1 +1,1 @@
-rate as a function of index size (# inserts), normalized for # workers?
+rate as a function of index size (# k-mers), normalized/showing scaling for # workers?
