@@ -1,0 +1,1 @@
+rate as a function of index size (# inserts), normalized for # workers?
