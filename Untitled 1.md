@@ -6,3 +6,5 @@ rate as a function of index size (# k-mers), normalized/showing scaling for # wo
 - kmer abundance filtering in order to compare against Logan
 	- if Logan has a JSON API, make out API format compatible to make comparison easier
 - follow up with prashant about measuring insert throughput
+	- scaling in reverse..
+- variance of index size across machines
