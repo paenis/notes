@@ -132,15 +132,17 @@
             }
           },
           {
-            "id": "019bf9237636e71f",
+            "id": "61e59f9fdec6fb48",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -217,6 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -310,7 +313,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "019bf9237636e71f",
+  "active": "61e59f9fdec6fb48",
   "lastOpenFiles": [
     "Untitled.md",
     "Untitled 1.md",
