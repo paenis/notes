@@ -190,11 +190,11 @@
   },
   "active": "a756a04d01b7693c",
   "lastOpenFiles": [
+    "proxmox.md",
     "personal/rust/neomantis.md",
     "personal/rust/crates/bincode.md",
     "personal/rust/crates/winnow.md",
     "personal/rust/crates/chumsky.md",
-    "proxmox.md",
     "Untitled 1.md",
     "personal/rust/crates/criterion.md",
     "personal/rust/crates/zerocopy.md",
