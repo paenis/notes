@@ -74,6 +74,6 @@ postinstall:
 		```
 	- do snapraidd setup
 	- TODO: healthcheck
-- `adduser fileowner`
+- `adduser fileowner`, chown data mount, chmod 664
 
 wipe disks and restore from 2023 backup
