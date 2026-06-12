@@ -57,6 +57,7 @@ postinstall:
 		/mnt/disk* /mnt/data mergerfs cache.files=off,category.create=pfrd,func.getattr=newest,dropcacheonclose=false,fsname=mergerfs
 		```
 	- `systemctl daemon-reload`, `mount -a`, `df -h` to check: can see a ~3TB mergerfs entry
-	- install snapraid: `curl -fsSL https://perfectmediaserver.com/scripts/install_snapraid.sh | sh` (same story with debian repos)
+- install snapraid: `curl -fsSL https://perfectmediaserver.com/scripts/install_snapraid.sh | sh` (same story with debian repos)
+	- 
 
 wipe disks and restore from 2023 backup
