@@ -58,6 +58,18 @@ postinstall:
 		```
 	- `systemctl daemon-reload`, `mount -a`, `df -h` to check: can see a ~3TB mergerfs entry
 - install snapraid: `curl -fsSL https://perfectmediaserver.com/scripts/install_snapraid.sh | sh` (same story with debian repos)
-	- 
+	- config:
+		```
+		parity /mnt/parity1/snapraid.parity
+		
+		content /mnt/disk1/.snapraid.content
+		content /var/snapraid/snapraid.content
+		
+		data d1 /mnt/disk1
+		
+		exclude *.unrecoverable
+		exclude /tmp/
+		exclude /lost+found/
+		```
 
 wipe disks and restore from 2023 backup
