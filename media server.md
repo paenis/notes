@@ -32,7 +32,7 @@ postinstall:
 	- configure automatic boot on schedule and after power loss in BIOS
 	- a KVM/IPMI setup would be nice but i don't have that, this is my replacement 
 - install MergerFS: `curl -fsSL https://perfectmediaserver.com/scripts/install_mergerfs.sh | sh`
-	- official debian repos lag behind-
+	- official debian repos lag behind
 	- don't automate (yet) in case it breaks something during an update
 - `apt install`
 	- inxi
