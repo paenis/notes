@@ -39,6 +39,7 @@ postinstall:
 	- hwinfo
 	- inxi
 	- parted for `partprobe`
+	- samba
 	- tmux
 	- vim
 - partition disks: `sgdisk --clear --new=1:0:0 --typecode=1:8300 --change-name=1:data /dev/sd{b,c}` (as 2 commands) and `mkfs.xfs` on both
@@ -71,5 +72,8 @@ postinstall:
 		exclude /tmp/
 		exclude /lost+found/
 		```
+	- do snapraidd setup
+	- TODO: healthcheck
+- `adduser fileowner`
 
 wipe disks and restore from 2023 backup
