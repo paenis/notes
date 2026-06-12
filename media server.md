@@ -35,13 +35,28 @@ postinstall:
 	- official debian repos lag behind
 	- don't automate (yet) in case it breaks something during an update
 - `apt install`
+	- fastfetch :)
 	- hwinfo
 	- inxi
 	- parted for `partprobe`
+	- tmux
+	- vim
 - partition disks: `sgdisk --clear --new=1:0:0 --typecode=1:8300 --change-name=1:data /dev/sd{b,c}` (as 2 commands) and `mkfs.xfs` on both
 - mergerfs/snapraid setup
 	- only two disks for now (3TB + 4TB), larger one has to be parity
-	- `mkdir -p /mnt/disk1`; `mkdir -p /mnt/parity1`
-	- 
+	- `mkdir /mnt/disk1`; `mkdir /mnt/parity1`; `mkdir /mnt/data` (mergerfs root)
+	- fstab:
+		```
+		# data
+		/dev/disk/by-id/ata-WDC_WD30EFRX-...-part1 /mnt/disk1 xfs defaults 0 0
+		
+		# snapraid parity 
+		/dev/disk/by-id/ata-WDC_WD40EFPX-...-part1 /mnt/parity1 xfs defaults 0 0
+		
+		# mergerfs pool
+		/mnt/disk* /mnt/data mergerfs cache.files=off,category.create=pfrd,func.getattr=newest,dropcacheonclose=false,fsname=mergerfs
+		```
+	- `systemctl daemon-reload`, `mount -a`, `df -h` to check: can see a ~3TB mergerfs entry
+	- install snapraid: `curl -fsSL https://perfectmediaserver.com/scripts/install_snapraid.sh | sh` (same story with debian repos)
 
 wipe disks and restore from 2023 backup
