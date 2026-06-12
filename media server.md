@@ -35,9 +35,13 @@ postinstall:
 	- official debian repos lag behind
 	- don't automate (yet) in case it breaks something during an update
 - `apt install`
+	- hwinfo
 	- inxi
 	- parted for `partprobe`
 - partition disks: `sgdisk --clear --new=1:0:0 --typecode=1:8300 --change-name=1:data /dev/sd{b,c}` (as 2 commands) and `mkfs.xfs` on both
-- 
+- mergerfs/snapraid setup
+	- only two disks for now (3TB + 4TB), larger one has to be parity
+	- `mkdir -p /mnt/disk1`; `mkdir -p /mnt/parity1`
+	- 
 
 wipe disks and restore from 2023 backup
