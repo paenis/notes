@@ -1,3 +1,9 @@
+## try recovery
+(qnap lvm data recovery bullshit)
+https://github.com/mkke/qnap-recovery
+## give up
+
+
 https://10.10.11.26:8006/
 
 postinstall:
