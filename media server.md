@@ -77,6 +77,9 @@ postinstall:
 - `adduser fileowner`, chown data mount, chmod 664
 - samba
 	- basically the same config as PMS
-	- windows doesn't like unauthenticated (guest) shares, so run `smbpasswd -a fileowner`. it also won't show the share in the Network tab unless you install `wsdd2`
+	- open SMB ports in proxmox firewall, preferably only for LAN source addresses
+	- windows doesn't like unauthenticated (guest) shares, so run `smbpasswd -a fileowner` and unset `guest ok = yes`. it also won't show the share in the Network tab unless you install `wsdd2`
+		- this requires some extra ports open in the firewall, and (i think) `netbios name` to be the same as the hostname in `smb.conf` 
+	- make the share discoverable to non-Windows clients with systemd-resolved's zeroconf/mDNS functionality (see Arch Wiki page on Samba)
 
 wipe disks and restore from 2023 backup
