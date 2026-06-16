@@ -75,5 +75,8 @@ postinstall:
 	- do snapraidd setup
 	- TODO: healthcheck
 - `adduser fileowner`, chown data mount, chmod 664
+- samba
+	- basically the same config as PMS
+	- windows doesn't like unauthenticated (guest) shares, so run `smbpasswd -a fileowner`. it also won't show the share in the Network tab unless you install `wsdd2`
 
 wipe disks and restore from 2023 backup
