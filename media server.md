@@ -83,4 +83,9 @@ postinstall:
 	- make the share discoverable to non-Windows clients with avahi's zeroconf/mDNS functionality (see Arch Wiki page on Samba)
 		- systemd-resolved also works for this but is usually disabled on proxmox
 
-wipe disks and restore from 2023 backup
+## TODO
+- caddy, jellyfin?, immich?
+
+## messing around
+some other stuff to do for fun
+### NixOS LXC
