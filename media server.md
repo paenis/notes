@@ -91,3 +91,5 @@ some other stuff to do for fun
 ### NixOS LXC
 grab a proxmox LXC template from https://hydra.nixos.org/job/nixos/release-26.05/nixos.proxmoxLXC.x86_64-linux ([latest download link](https://hydra.nixos.org/job/nixos/release-26.05/nixos.proxmoxLXC.x86_64-linux/latest/download/1) or use "Reproduce locally" on chosen build) and upload using the web UI
 
+## etc.
+in retrospect, i would make the host NixOS as well :)
